@@ -16,3 +16,5 @@ enum class Tabs(val value: String){
     STATUS(value = "Status"),
     CALLS(value ="Calls")
 }
+
+const val INITIAL_INDEX = 0
